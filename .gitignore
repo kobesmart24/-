@@ -1,0 +1,10 @@
+/.idea
+/.vscode
+/.DS_Store
+*.log
+.env
+/addons
+/vendor
+/public/static/addons
+/public/static/storage
+/auto_install.json
